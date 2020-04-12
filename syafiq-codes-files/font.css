@@ -1,14 +1,1 @@
-/* zcool-xiaowei-regular - latin */
-@font-face {
-  font-display: swap;
-  font-family: 'ZCOOL XiaoWei';
-  font-style: normal;
-  font-weight: 400;
-  src: url('./fonts/zcool-xiaowei-v5-latin-regular.eot'); /* IE9 Compat Modes */
-  src: local('ZCOOL XiaoWei Regular'), local('ZCOOLXiaoWei-Regular'),
-       url('./fonts/zcool-xiaowei-v5-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('./fonts/zcool-xiaowei-v5-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('./fonts/zcool-xiaowei-v5-latin-regular.woff') format('woff'), /* Modern Browsers */
-       url('./fonts/zcool-xiaowei-v5-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('./fonts/zcool-xiaowei-v5-latin-regular.svg#ZCOOLXiaoWei') format('svg'); /* Legacy iOS */
-}
+/* zcool-xiaowei-regular - latin */ @font-face { font-display: swap; font-family: 'ZCOOL XiaoWei'; font-style: normal; font-weight: 400; src: url('./fonts/zcool-xiaowei-v5-latin-regular.eot'); /* IE9 Compat Modes */ src: local('ZCOOL XiaoWei Regular'), local('ZCOOLXiaoWei-Regular'), url('./fonts/zcool-xiaowei-v5-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('./fonts/zcool-xiaowei-v5-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('./fonts/zcool-xiaowei-v5-latin-regular.woff') format('woff'), /* Modern Browsers */ url('./fonts/zcool-xiaowei-v5-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('./fonts/zcool-xiaowei-v5-latin-regular.svg#ZCOOLXiaoWei') format('svg'); /* Legacy iOS */ }
